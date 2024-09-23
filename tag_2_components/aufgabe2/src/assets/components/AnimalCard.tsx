@@ -13,7 +13,7 @@ function AnimalCard(props: AnimalCardProps) {
       <div>{props.animal.lifespan}</div>
       <div>{props.animal.diet}</div>
       <div>{props.animal.funFacts}</div>
-      {/* <div>{props.animal.emoji}</div> */}
+      <div>{props.animal.emoji}</div>
     </div>
   );
 }
