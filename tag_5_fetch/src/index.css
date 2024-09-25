@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family:  'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.main-title {
+    font-size: 4rem;
+    margin-left: 2rem;
+}
+
+.news-card {
+    margin-bottom: 8rem;
+    margin-left: 2rem;
+    width: 30vw;
+}
+
+.title {
+    margin: 2rem 0rem;
+    color: blue;
+}
+
+.author {
+    font-size: 1rem;
+}
