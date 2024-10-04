@@ -1,0 +1,36 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.theme {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.theme--dark{
+  background-color: #222;
+  color: white;
+  height: 100vh;
+  
+}
+
+
+.theme--blue {
+  background-color: rgb(67, 173, 230);
+  color: white;
+  height: 100vh;
+
+}
+
+button {
+  padding: 3rem;
+  
+}
